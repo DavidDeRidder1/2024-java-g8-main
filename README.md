@@ -8,6 +8,7 @@ Setup:
 <property name="javax.persistence.jdbc.url" value="YOUR_DATABASE_URL" />
 <property name="javax.persistence.jdbc.user" value="YOUR_DATABASE_USERNAME" />
 <property name="javax.persistence.jdbc.password" value="YOUR_DATABASE_PASSWORD" />
+```
 
 ## Contact
 
