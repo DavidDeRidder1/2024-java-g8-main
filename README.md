@@ -3,7 +3,7 @@
 ## b2b portaal voor Delaware
 Dit is het project van groep 8 voor het vak SDP2. Dit is de bijhorende back-office bij de webapplicatie (frontend-g8-main en backend-g8-main)
 
-Setup: 
+Setup: In src/META-INF/persistence.xml:
 ```xml
 <property name="javax.persistence.jdbc.url" value="YOUR_DATABASE_URL" />
 <property name="javax.persistence.jdbc.user" value="YOUR_DATABASE_USERNAME" />
